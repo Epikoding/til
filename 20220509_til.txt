@@ -1,0 +1,2 @@
+1. TextEdit을 통한 txt파일 생성.
+2. Sourcetree push 하는 방법 구글링 검색.
